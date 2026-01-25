@@ -2,16 +2,6 @@
 
 Welcome to the **VLSI Chapter – Tarang Club** interactive session on **Digital Design in VLSI**. This README contains all necessary resources, tools, references, and links to help you get started with HDL, Verilog, and VLSI fundamentals.
 
----
-
-## 📌 **Event Overview**
-**Title:** Introduction to Digital Design in VLSI  
-**Organized by:** VLSI Chapter, Tarang Club  
-**Focus Areas:**  
-- Roadmap for VLSI beginners  
-- HDL basics  
-- Introduction to Verilog  
-- Software tools to start learning digital design
 
 ---
 
