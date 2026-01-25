@@ -56,7 +56,7 @@ https://www.edaplayground.com/
 - *Verilog HDL* by Samir Palnitkar  
 - *CMOS VLSI Design* by Weste & Harris
 - *IEEE Standard for Verilog® Hardware Description Language*
-- Book links: ```[PDF].(https://drive.google.com/drive/folders/1yvV84_6zyMiDmm0iQH6HgHlljqceq7nI?usp=sharing)```
+- Book link: [PDF](https://drive.google.com/drive/folders/1yvV84_6zyMiDmm0iQH6HgHlljqceq7nI?usp=sharing)
 
 ---
 
