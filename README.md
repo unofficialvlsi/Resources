@@ -38,11 +38,11 @@ https://www.edaplayground.com/
 ## ▶️ **Best YouTube Playlists & Channels**
 ### **1. Verilog Basics**
 - NPTEL - Hardware Modelling Using Verilog: [YouTube](https://www.youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH)  
-- Neso Academy – Verilog: https://www.youtube.com/playlist?list=PLLy_2iUCG87C2vZqUoOYwZ2Ck2aSFFmMm
+- ALL ABOUT VLSI – Verilog HDL complete course: [YouTube](https://www.youtube.com/playlist?list=PLqPfWwayuBvPYYQS2h5p622vGR6aZIfux)
 
 ### **2. Digital Electronics Revision**
-- Gate Smashers: https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL2xQGd4o6M  
-- Neso Academy DE: https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+- NOC Jan 2019: Digital Electronic Circuits: [YouTube](https://www.youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX) ```detailed```
+- Neso Academy DE: [YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)  ``` (need some touch on particular topic)```
 
 ### **3. VLSI Industry Insights**
 - VLSI Junction: https://www.youtube.com/c/VLSIJunction  
