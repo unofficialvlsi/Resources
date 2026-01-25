@@ -50,45 +50,11 @@ https://www.edaplayground.com/
 
 ---
 
-## 📚 **Recommended Books**
+## 📚 **Recommended Books (PDF link below)**
 - *Digital Design* by Morris Mano  
 - *HDL Programming* by Nazeih Botros  
 - *Verilog HDL* by Samir Palnitkar  
 - *CMOS VLSI Design* by Weste & Harris
-
----
-
-## 💡 **Starter Verilog Examples**
-### **1. Basic AND Gate**
-```verilog
-module and_gate(input a, input b, output y);
-    assign y = a & b;
-endmodule
-```
-
-### **2. 4-bit Adder**
-```verilog
-module adder4(input [3:0] a, input [3:0] b, output [4:0] sum);
-    assign sum = a + b;
-endmodule
-```
-
-### **3. Simple Testbench**
-```verilog
-module tb;
-    reg a, b;
-    wire y;
-
-    and_gate uut(a, b, y);
-
-    initial begin
-        a = 0; b = 0;
-        #10 a = 1;
-        #10 b = 1;
-        #20 $finish;
-    end
-endmodule
-```
 
 ---
 
@@ -108,14 +74,13 @@ endmodule
 
 ---
 
-## ✔️ **Registration Link**
-(Attach Google Form link here)
-
----
-
 ## 🙌 **Contact**
 For queries, reach out to the VLSI Chapter representatives of Tarang Club.
+```
+    1. Harsh Mishra ( 8899234364 )
+    2. Shrikant Jha ( 9892213155 )
+```
 
 ---
 
-## ⭐ **We look forward to meeting you!**
+## ⭐ **HAPPY LEARNING - TEAM VLSI :)**
