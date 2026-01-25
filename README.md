@@ -32,13 +32,14 @@ Installation Guide: https://steveicarus.github.io/iverilog/
 Tool for viewing waveform outputs.  
 Download: https://gtkwave.sourceforge.net/
 
-### **4. EDA Playground (Online)**  
-No installation required. Perfect for beginners.  
-https://www.edaplayground.com/
+### **4. Vivado Design Suite (Offline)**
+Installation Link: [Link](https://www.xilinx.com/support/download.html](https://www.xilinx.com/member/forms/download/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.ex ) ```Recommeded - useful for FPGA implimentation```
 
-### **5. Vivado Design Suite (Offline)**
-Installation Link: [Link](https://www.xilinx.com/support/download.html](https://www.xilinx.com/member/forms/download/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.ex)
-
+```
+    Note: Combination of VS Code + Icarus + GTKWave is not recommeded
+          as we will be implimentating these design on FPGA
+          
+```
 ---
 
 ## ▶️ **Best YouTube Playlists & Channels**
