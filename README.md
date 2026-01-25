@@ -37,7 +37,7 @@ No installation required. Perfect for beginners.
 https://www.edaplayground.com/
 
 ### **5. Vivado Design Suite (Offline)**
-Installation Link: [Link]([https://www.xilinx.com/support/download.html](https://www.xilinx.com/member/forms/download/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.exe))
+Installation Link: [Link](https://www.xilinx.com/support/download.html](https://www.xilinx.com/member/forms/download/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.ex)
 
 ---
 
