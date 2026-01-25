@@ -1,3 +1,5 @@
+
+---
 # VLSI Digital Design Interactive Session – README
 
 Welcome to the **VLSI Chapter – Tarang Club** interactive session on **Digital Design in VLSI**. This README contains all necessary resources, tools, references, and links to help you get started with HDL, Verilog, and VLSI fundamentals.
