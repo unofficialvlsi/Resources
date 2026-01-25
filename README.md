@@ -37,7 +37,7 @@ https://www.edaplayground.com/
 
 ## ▶️ **Best YouTube Playlists & Channels**
 ### **1. Verilog Basics**
-- My Digital Learning – Verilog HDL: https://www.youtube.com/playlist?list=PLmA_7xFj0z2kNRDJqSTe5MNDoAuCEr0aS  
+- NPTEL - Hardware Modelling Using Verilog: [YouTube](https://www.youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH)  
 - Neso Academy – Verilog: https://www.youtube.com/playlist?list=PLLy_2iUCG87C2vZqUoOYwZ2Ck2aSFFmMm
 
 ### **2. Digital Electronics Revision**
