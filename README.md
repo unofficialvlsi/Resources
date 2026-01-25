@@ -36,11 +36,14 @@ Download: https://gtkwave.sourceforge.net/
 No installation required. Perfect for beginners.  
 https://www.edaplayground.com/
 
+### **5. Vivado Design Suite (Offline)**
+Installation Link: [Link]([https://www.xilinx.com/support/download.html](https://www.xilinx.com/member/forms/download/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.exe))
+
 ---
 
 ## ▶️ **Best YouTube Playlists & Channels**
 ### **1. Verilog Basics**
-- NPTEL - Hardware Modelling Using Verilog: [YouTube](https://www.youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH)  
+- NPTEL - Hardware Modelling Using Verilog: [YouTube](https://www.youtube.com/playlist?list=PLRsFfXmDi9IYCNlvNjrsD8bLMmNE0UxBH) ```recommended``` 
 - ALL ABOUT VLSI – Verilog HDL complete course: [YouTube](https://www.youtube.com/playlist?list=PLqPfWwayuBvPYYQS2h5p622vGR6aZIfux)
 
 ### **2. Digital Electronics Revision**
@@ -48,8 +51,7 @@ https://www.edaplayground.com/
 - Neso Academy DE: [YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)  ``` (need some touch on particular topic)```
 
 ### **3. VLSI Industry Insights**
-- VLSI Junction: https://www.youtube.com/c/VLSIJunction  
-- SemiPoint: https://www.youtube.com/c/SemiPoint
+- VLSI Point: [YouTube](https://www.youtube.com/@vlsipoint/videos) ```Trend, Insight, Clarity```  
 
 ---
 
