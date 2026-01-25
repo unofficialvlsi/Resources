@@ -49,7 +49,7 @@ Installation Link: [Link](https://www.xilinx.com/support/download.html](https://
 
 ### **2. Digital Electronics Revision**
 - NOC Jan 2019: Digital Electronic Circuits: [YouTube](https://www.youtube.com/playlist?list=PLbRMhDVUMnge4gDT0vBWjCb3Lz0HnYKkX) ```detailed```
-- Neso Academy DE: [YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)  ``` (need some touch on particular topic)```
+- Neso Academy DE: [YouTube](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm)  ```need some touch on particular topic```
 
 ### **3. VLSI Industry Insights**
 - VLSI Point: [YouTube](https://www.youtube.com/@vlsipoint/videos) ```Trend, Insight, Clarity```  
@@ -67,7 +67,7 @@ Installation Link: [Link](https://www.xilinx.com/support/download.html](https://
 ---
 
 ## 📝 **Practice Problems**
-- HDL bits: https://hdlbits.01xz.net/wiki/Main_Page
+- HDL bits: https://hdlbits.01xz.net/wiki/Main_Page ```VLSI wala LeetCode ;)```
 
 ---
 
