@@ -61,10 +61,7 @@ https://www.edaplayground.com/
 ---
 
 ## 📝 **Practice Problems**
-- Implement a 2:1 mux  
-- Write Verilog for 3-bit counter  
-- Build a sequence detector (101)  
-- Design an ALU supporting 4 operations
+- HDL bits: https://hdlbits.01xz.net/wiki/Main_Page
 
 ---
 
