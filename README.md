@@ -68,14 +68,6 @@ https://www.edaplayground.com/
 
 ---
 
-## 🧪 **Mini Projects for Beginners**
-- 4-bit Ripple Carry Adder  
-- Traffic Light Controller using FSM  
-- UART Transmitter  
-- Simple Register File
-
----
-
 ## 🙌 **Contact**
 For queries, reach out to the VLSI Chapter representatives of Tarang Club.
 ```
