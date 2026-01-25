@@ -1,3 +1,4 @@
+![VLSI](images.jpg)
 
 ---
 # VLSI Digital Design Interactive Session – README
