@@ -31,6 +31,7 @@ Installation Guide: https://steveicarus.github.io/iverilog/
 ### **3. GTKWave**  
 Tool for viewing waveform outputs.  
 Download: https://gtkwave.sourceforge.net/
+Guide (PDF): (GUIDE)[https://drive.google.com/file/d/1OGtaXk7enh1RHO5QMMyKYJbAnG0MI_rZ/view?usp=sharing]
 
 ### **4. Vivado Design Suite (Offline)**
 Installation Link: [Link](https://www.xilinx.com/support/download.html](https://www.xilinx.com/member/forms/download/xef.html?filename=FPGAs_AdaptiveSoCs_Unified_SDI_2025.2_1114_2157_Win64.ex ) ```Recommeded - useful for FPGA implimentation```
